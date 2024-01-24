@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "timetable-vk-bot"
+version = "0.0.0"
+description = ""
+authors = ["YaraLash <<94112400+YaraLash@users.noreply.github.com>>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+vkbottle = "^4.3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
